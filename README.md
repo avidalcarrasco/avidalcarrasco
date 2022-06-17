@@ -1,9 +1,9 @@
 ### Hi there, I'm Antonio 👋
 
-- :wrench: I work in Coolblue Returns & Second Chance, Team Orange :jack_o_lantern:
+- :wrench: I work in Coolblue Returns, Repairs and Recovery domain, on Team 2 (aka Team Orange) :jack_o_lantern:
 - 📫 You can reach me at a.vidalcarrasco at coolblue dot nl :email:
 - 👀 I’m interested in game design :video_game:, anime :japanese_ogre:, music :musical_keyboard: and languages :speech_balloon:
-- 🌱 I’m currently learning Dutch and tons of other stuff :construction:
+- 🌱 I’m currently learning Korean, Japanese and tons of other stuff :construction:
 - :octocat: You can check my personal [Github][github] account.
 
 <br />
